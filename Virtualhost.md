@@ -19,7 +19,8 @@
 - Now we edit the configuration file  
 ![Screenshot from 2024-11-11 16-41-59](https://github.com/user-attachments/assets/171e031f-935f-48a5-9b9c-b7ee8a659aaf)
 - We uncomment the ServerName and change it, and We also want the DocumentRoot directive to point to the directory our site files are hosted on.  
-![Screenshot from 2024-11-11 16-44-31](https://github.com/user-attachments/assets/cf82ebbc-adf9-4fd8-86cb-81d4c6355add)
+![Screenshot from 2024-11-11 17-09-07](https://github.com/user-attachments/assets/67e983b2-6785-4e59-b97d-5c42c118e938)
+
 
 ## Activating VirtualHost file
 - we need to activate the virtual hosts configuration file to enable it  
