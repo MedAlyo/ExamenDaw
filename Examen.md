@@ -5,6 +5,7 @@
 This is an exam of DAW of the 1st trimester, where we are tested for our knowledge about: **Github**, **Markdown**, **Apache**, remote work using **SSH** and linux command lines.
 
 ## SSH + Command line
+
 ### Accessing the remote machine  
 ![Screenshot from 2024-11-11 15-57-26](https://github.com/user-attachments/assets/c9faa7a9-6fac-40fd-a31f-17eb3c4852f2)
 ### Going to desktop  
@@ -15,15 +16,15 @@ This is an exam of DAW of the 1st trimester, where we are tested for our knowled
 
 
 ## Virtualhost
-### Creating the Website
 
-1- Creating a folder for our new website in /var/www/ by running  
+### Creating the Website
+- Creating a folder for our new website in /var/www/ by running  
 ![Screenshot from 2024-11-11 16-40-10](https://github.com/user-attachments/assets/a1159427-aac6-429b-ac11-fc3c0f35ece7)
-2- Let’s go into our newly created directory  
+- Let’s go into our newly created directory  
 ![Screenshot from 2024-11-11 16-41-01](https://github.com/user-attachments/assets/edf03092-dc34-4c43-8ba2-07e0731099c2)
-3- Lets create an HTML file  
+- Lets create an HTML file  
 ![Screenshot from 2024-11-11 16-41-12](https://github.com/user-attachments/assets/2f0938e6-cc4d-4ccb-a329-40d79121a45c)
-4- The code used in this HTML  
+- The code used in this HTML  
 ![Screenshot from 2024-11-11 16-43-33](https://github.com/user-attachments/assets/55a372a4-cbf9-43de-8223-c61010db2bf4)
 
 
