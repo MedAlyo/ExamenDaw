@@ -1,8 +1,26 @@
 # Exam Daw 1
 
+## Index
+- [Introduction](#Introduction)
+- [SSH + Command line](#SSH--Command-line)
+- [Virtualhost](#Virtualhost)
+- [Setting up the VirtualHost Configuration File](#Setting-up-the-VirtualHost-Configuration-File)
+- [Activating VirtualHost file](#Activating-VirtualHost-file)
+- [Conclusion](#Conclusion)
+- [Bibliography](#Bibliography)
+
 ## Introduction
 
 This is an exam of DAW of the 1st trimester, where we are tested for our knowledge about: **Github**, **Markdown**, **Apache**, remote work using **SSH** and linux command lines.
+
+## Key words
+1- Github
+2- Markdown
+3- Apache
+4- SSH
+5- Virtual Host
+6- Linux Commands
+
 
 ## SSH + Command line
 
@@ -58,13 +76,4 @@ It was a straight forward exam, that tested our knowledge in the thing that we s
 ## Bibliography
 - [SSH](https://docs.google.com/document/d/1egNlr8BModlaQJlCoySeRyMvsRXn2w5C3YF0Co0-Gf4/edit?tab=t.0)
 - [Virtual Host config](https://github.com/MedAlyo/Apache/blob/main/apache%20config.md)
-
-## Index
-- [Introduction](#Introduction)
-- [SSH + Command line](#SSH--Command-line)
-- [Virtualhost](#Virtualhost)
-- [Setting up the VirtualHost Configuration File](#Setting-up-the-VirtualHost-Configuration-File)
-- [Activating VirtualHost file](#Activating-VirtualHost-file)
-- [Conclusion](#Conclusion)
-- [Bibliography](#Bibliography)
 
