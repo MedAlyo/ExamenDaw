@@ -3,7 +3,7 @@
 ## Index
 1. [Introduction](#Introduction)
 2. [key words](#key-words)
-3 [SSH + Command line](#SSH--Command-line)
+3. [SSH + Command line](#SSH--Command-line)
 4. [Virtualhost](#Virtualhost)
 5. [Setting up the VirtualHost Configuration File](#Setting-up-the-VirtualHost-Configuration-File)
 6. [Activating VirtualHost file](#Activating-VirtualHost-file)
