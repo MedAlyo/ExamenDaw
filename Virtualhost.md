@@ -6,8 +6,9 @@
 ![Screenshot from 2024-11-11 16-41-01](https://github.com/user-attachments/assets/edf03092-dc34-4c43-8ba2-07e0731099c2)
 - Lets create an HTML file
 ![Screenshot from 2024-11-11 16-41-12](https://github.com/user-attachments/assets/2f0938e6-cc4d-4ccb-a329-40d79121a45c)
-- The code used in this HTML
-![Screenshot from 2024-11-11 16-41-34](https://github.com/user-attachments/assets/1c03cd19-993f-49d8-a3f9-a45c74fbcc52)
+- The code used in this HTML  
+![Screenshot from 2024-11-11 16-43-33](https://github.com/user-attachments/assets/55a372a4-cbf9-43de-8223-c61010db2bf4)
+
 
 ## Setting up the VirtualHost Configuration File
 
