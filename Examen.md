@@ -51,4 +51,14 @@ This is an exam of DAW of the 1st trimester, where we are tested for our knowled
 ![Screenshot from 2024-11-11 16-45-09](https://github.com/user-attachments/assets/f95b24be-c2dd-4a80-8531-23483a950bd0)
 
 
+## Conclusion
+In this exam we covered almost all of what we studied in clase, these include: **Github**, **Markdown**, **Apache**, remote work using **SSH** and linux command lines.
+It was a straight forward exam, that tested our knowledge in the thing that we studied.
+
+## Bibliography
+- [SSH](https://docs.google.com/document/d/1egNlr8BModlaQJlCoySeRyMvsRXn2w5C3YF0Co0-Gf4/edit?tab=t.0)
+- [Virtual Host config](https://github.com/MedAlyo/Apache/blob/main/apache%20config.md)
+
+## Index
+- [Introduction](##Introduction)
 
