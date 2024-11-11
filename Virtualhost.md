@@ -21,7 +21,15 @@
 - We uncomment the ServerName and change it, and We also want the DocumentRoot directive to point to the directory our site files are hosted on.  
 ![Screenshot from 2024-11-11 16-44-31](https://github.com/user-attachments/assets/cf82ebbc-adf9-4fd8-86cb-81d4c6355add)
 
-
+## Activating VirtualHost file
+- we need to activate the virtual hosts configuration file to enable it  
+![Screenshot from 2024-11-11 16-42-12](https://github.com/user-attachments/assets/7f335497-1e82-4689-8e15-b79a29792e6e)
+- To load the new site, we restart Apache by typing  
+![Screenshot from 2024-11-11 16-42-36](https://github.com/user-attachments/assets/3e58d7d5-df94-4a28-8718-abc43a51ecc7)
+- End result  
+![Screenshot from 2024-11-11 17-03-06](https://github.com/user-attachments/assets/4f8dcebb-75e7-4d65-9ce6-18a8fedb383c)
+- If the url doesn't work then go to /etc/hosts in your files, and add 127.0.1.1 daw.ejercicio3.com after the 127.0.1.1 usuario-desktop in your machine (I have another project there)
+![Screenshot from 2024-11-11 16-45-09](https://github.com/user-attachments/assets/f95b24be-c2dd-4a80-8531-23483a950bd0)
 
 
 
